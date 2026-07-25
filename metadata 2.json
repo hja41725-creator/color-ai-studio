@@ -1,0 +1,6 @@
+{
+  "name": "Color AI Studio",
+  "description": "AI-powered color palette generator, image color extractor, accessibility contrast inspector, and live UI theme preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
